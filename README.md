@@ -4,6 +4,7 @@
 
 ## Table of Content
 
+- [Link to the running application](#link-to-the-running-application)
 - [Description](#description)
 - [User Story](#user-story)
 - [Development](#development)
@@ -16,6 +17,10 @@
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [CopyRight](#copyright)
+
+## Link to the running application
+
+https://immense-temple-51488.herokuapp.com/
 
 ## Description
 
@@ -68,7 +73,7 @@ Yes, you can modify and refractor the code
 
 ## Demo
 
-![Demo](./assets/demo.gif)
+![Demo](./public/demo.gif)
 
 ## License
 
