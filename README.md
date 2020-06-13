@@ -91,8 +91,6 @@ Thanks to Agustin and to both TA's for sharting their knowledge. Also to my peer
 
 ### CopyRight
 
-Copyright 2020 &copy; John Merchan
+Copyright 2020 &copy; John Merchan  :australia:
 
-:australia:
-
-[Table of Content](#Table-of-Content) --- [Back to Top](#Employee-Tracker) --- [Installation](#Installation)
+[Table of Content](#Table-of-Content) --- [Back to Top](#WorkOut-Tracker) --- [Installation](#Installation)
