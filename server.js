@@ -22,6 +22,7 @@ mongoose.connect(MONGODB_URI, {
     useNewUrlParser: true,
     useFindAndModify: false
 });
+const db = require("./models");
 
 // Creating routes
 require("./routes/apiRoutes")(app);
@@ -29,5 +30,5 @@ require("./routes/htmlRoutes")(app);
 
 // Start the server to begin listening
 app.listen(PORT, ()=> {
-    console.log('"App listening on Port" ${ PORT }.');
+    console.log("App listening on Port: ", PORT)
 });
