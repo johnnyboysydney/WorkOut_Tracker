@@ -73,7 +73,7 @@ Yes, you can modify and refractor the code
 
 ## Demo
 
-![Demo](./public/demo.gif)
+![Demo](./public/demo/demo.gif)
 
 ## License
 
