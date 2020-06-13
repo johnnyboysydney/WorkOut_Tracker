@@ -1,4 +1,6 @@
-# WorkOut_Tracker
+# WorkOut Tracker  
+
+![icon](./public/img/download.png)
 
 ## Table of Content
 
@@ -40,7 +42,7 @@ Clone this repo into your local and run 'npm i' in the root file of the folder. 
 
 ### Dependencies
 
-Bootstrap, HTML, CSS, JS, NodeJS, express, mongoose, mongoDB and morgan.
+Bootstrap, HTML, CSS, JS, NodeJS, express, mongoose, mongoDB, chai, dotenv, nodemon, mocha and morgan.
 
 ## Tests
 
@@ -78,7 +80,7 @@ Yes, you can modify and refractor the code
 
 ## Acknowledgments
 
-Thanks to Agustin and to both TA's for sharting their knowledge. Also to my 
+Thanks to Agustin and to both TA's for sharting their knowledge. Also to my peers who engage in questions and also sharing knowlegde as well as some laughs. Needless to say to my sons, my soul-my life.
 
 ***
 
