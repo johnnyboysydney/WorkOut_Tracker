@@ -1,3 +1,4 @@
+// Dependencies and variables
 const db = require("../models");
 
 module.exports = function(app) {
