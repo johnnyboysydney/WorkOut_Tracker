@@ -20,7 +20,7 @@
 
 ## Link to the running application
 
-https://immense-temple-51488.herokuapp.com/
+<https://immense-temple-51488.herokuapp.com/>
 
 ## Description
 
