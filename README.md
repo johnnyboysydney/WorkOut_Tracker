@@ -36,7 +36,7 @@ If the exercise is a cardio exercise, I should be able to track my distance trav
 
 ## Development
 
-Since I was givent the frontend, I worked on 5 files; The server.js, models/index.js, models/workout.js, routes/apiRoutes.js & routes/htmlRoutes.js. Once I created the server.js and tested I was able to connect to the server on port 9000, I proceeded working on the routes. As soon I was able to reach these pages on the localhost, I continued working on the models files to allow the DB to be created and to be ready to store data.  
+Since I was given the frontend, I worked on 5 files; The server.js, models/index.js, models/workout.js, routes/apiRoutes.js & routes/htmlRoutes.js. Once I created the server.js and tested I was able to connect to the server on port 9000, I proceeded working on the routes. As soon I was able to reach these pages on the localhost, I continued working on the models files to allow the DB to be created and to be ready to store data.  
 As soon the local environment was working and there no further errors, I pushed to heroku and ensured, I was able to use it and it was fully functional.
 
 ## Installation
@@ -85,7 +85,7 @@ Yes, you can modify and refractor the code
 
 ## Acknowledgments
 
-Thanks to Agustin and to both TA's for sharting their knowledge. Also to my peers who engage in questions and also sharing knowlegde as well as some laughs. Needless to say to my sons, my soul-my life.
+Thanks to Agustin and to both TA's for sharting their knowledge. Also to my peers who engage in questions and also sharing knowlegde as well as some laughs. Needless to say to my sons, my soul-my life, my daughters the smile that rocks my world and my beauty partner.
 
 ***
 
