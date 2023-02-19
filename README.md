@@ -85,8 +85,7 @@ Yes, you can modify and refractor the code
 
 ## Acknowledgments
 
-Thanks to Agustin and to both TA's for sharting their knowledge. Also to my peers who engage in questions and also sharing knowlegde as well as some laughs. Needless to say to my sons, my soul-my life, my daughters the smile that rocks my world and my beauty partner.
-
+Thanks to Agustin and to both TA's for sharting their knowledge.
 ***
 
 ### CopyRight
